@@ -28,8 +28,8 @@ X: 747
 Y: -360
 Frame: KLHTM_Frame
 FrameLevel: 1
-X: 1750
-Y: -1015
+X: 1713
+Y: -994
 Frame: VCB_BF_ConfigFrame
 FrameLevel: 1
 X: 610
