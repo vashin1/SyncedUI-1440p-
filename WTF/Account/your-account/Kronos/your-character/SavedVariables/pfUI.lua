@@ -939,32 +939,4 @@ pfUI_playerDB = {
 		["class"] = "Unknown",
 		["level"] = 0,
 	},
-	["Marelle"] = {
-		["class"] = "MAGE",
-		["level"] = 60,
-	},
-	["Plagiuu"] = {
-		["class"] = "MAGE",
-		["level"] = 60,
-	},
-	["Vnmll"] = {
-		["class"] = "PRIEST",
-		["level"] = 60,
-	},
-	["Torch"] = {
-		["class"] = "MAGE",
-		["level"] = 60,
-	},
-	["Yakikadafi"] = {
-		["class"] = "PRIEST",
-		["level"] = 60,
-	},
-	["Vnm"] = {
-		["class"] = "PALADIN",
-		["level"] = 60,
-	},
-	["Essz"] = {
-		["class"] = "HUNTER",
-		["level"] = 60,
-	},
 }
