@@ -944,7 +944,6 @@ pfUI_profiles = {
 }
 pfUI_gold = {
 	["Kronos"] = {
-		["Marelle"] = 40745943,
-		["Vashin"] = 47294,
+		["Marelle"] = 0,
 	},
 }
