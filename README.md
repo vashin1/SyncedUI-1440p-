@@ -16,7 +16,6 @@ Special thanks to Shagu, Shino, Aviana Athene and Shirsig.
 *  **KTM 17.35** - Threat meter     
 *  **SWStats** - Combat analysis  
 *  **Mik's Scrolling Battle Text** - Scrolling combat text  
-*  **VCB** - Consolidated buff frames  
 *  **Cooline** - Track your cooldowns neatly 
 *  **Linkmend** - Converts clink item links into actual item links, also localizes items that would otherwise appear in another language  
 *  **Mail** - Improved mailbox interface  
